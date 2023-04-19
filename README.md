@@ -6,7 +6,7 @@
 ---
 # <p align="center">Praktikum 6: PHP OOP lanjutan</p>
 
-### Before After
+### Before ------------------> After
 
 ![menambahkan_gambar](README_img/directory_tree.png)
 ![menambahkan_gambar](README_img/directory_tree2.png)
